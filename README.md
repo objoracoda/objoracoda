@@ -1,15 +1,16 @@
-### <h1 align="left">Привет 👋</h1> 
-Я Олег 😺 Студент Финансовго университета при правительстве РФ, учусь на Информационной Безопасности. Увлекаюсь программированием с 14 лет.
+### Student Of The Financial University | Information Security | Blockchain
+Avarge neovim enjoyer
 
 #### Hard-skills 🎓:
-   - `JavaScript`, `Html, Css`
-   - `Python3`,
-   - `Figma`
-   - Frontend (`Vue3`, `React`)
-
+   - `С++`
+   - `JavaScript`,
+   - `Python`,
 ____
 
-### Репозиторий с моими проектами 💾:
+### Blockchain Self Learning Notes ✏️:
+<a href="https://github.com/objoracoda/learn-blockchain"><p>My Notes</p>
+
+### Projects Rep 💾:
 
 <a href="https://github.com/objoracoda/my-progress-rep"><p>My-Progress-Rep</p>
 
@@ -19,8 +20,6 @@ ____
 
 <a href="https://t.me/objoracoda">
    <img top="0" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" target="_blank" margin-left="10px">
-<a href="https://www.instagram.com/objoracoda">
-   <img top="0" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" target="_blank" margin-left="10px">
 </p>
    
 <p align='center'>
