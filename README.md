@@ -8,11 +8,11 @@ Avarge neovim enjoyer
 ____
 
 ### Blockchain Self Learning Notes ✏️:
-<a href="https://github.com/objoracoda/learn-blockchain"><p>My Notes</p>
+[My Notes](https://github.com/objoracoda/learn-blockchain)
 
 ### Projects Rep 💾:
 
-<a href="https://github.com/objoracoda/my-progress-rep"><p>My-Progress-Rep</p>
+[Progress Rep](https://github.com/objoracoda/my-progress-rep)
 
 ____
    
