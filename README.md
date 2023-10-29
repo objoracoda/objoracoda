@@ -1,5 +1,5 @@
 ### Student Of The Financial University | Information Security | Blockchain
-Avarge neovim enjoyer
+Avarge Vim Enjoyer
 
 #### Hard-skills 🎓:
    - `С++`
