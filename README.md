@@ -1,4 +1,4 @@
-### Student Of The Financial University | Information Security | Blockchain
+### Student Of The Financial University | Information Security
 Avarge Vim Enjoyer
 
 #### Hard-skills 🎓:
