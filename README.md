@@ -7,8 +7,6 @@ Avarge Vim Enjoyer
    - `Python`,
 ____
 
-### Blockchain Self Learning Notes ✏️:
-[My Notes](https://github.com/objoracoda/learn-blockchain)
 
 ### Projects Rep 💾:
 
