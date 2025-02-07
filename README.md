@@ -6,8 +6,6 @@ Avarge Vim Enjoyer
    - `JavaScript`,
    - `PHP`,
 ____
-
-____
    
 <p align="center">
 
