@@ -2,15 +2,10 @@
 Avarge Vim Enjoyer
 
 #### Hard-skills 🎓:
-   - `С++`
+   - `Python`
    - `JavaScript`,
-   - `Python`,
+   - `PHP`,
 ____
-
-
-### Projects Rep 💾:
-
-[Progress Rep](https://github.com/objoracoda/my-progress-rep)
 
 ____
    
